@@ -1,0 +1,8 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="71" height="8" viewBox="0 0 71 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="galleryIndicator">
+<path id="dot" d="M0 4C0 1.79086 1.79086 0 4 0H20C22.2091 0 24 1.79086 24 4V4C24 6.20914 22.2091 8 20 8H4C1.79086 8 0 6.20914 0 4V4Z" fill="#111111"/>
+<circle id="dot_2" opacity="0.3" cx="36" cy="4" r="4" fill="#111111"/>
+<circle id="dot_3" opacity="0.3" cx="52" cy="4" r="4" fill="#111111"/>
+<circle id="dot_4" opacity="0.3" cx="67.5" cy="4" r="3.5" fill="#111111"/>
+</g>
+</svg>
